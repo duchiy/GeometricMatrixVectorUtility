@@ -1,0 +1,313 @@
+
+         Element          Actual         Nominal         Deviat.         Up Tol.        Low Tol.       Pass/Fail
+                                                        (TP Dev)        (TP Tol)                                
+Cylinder: Cylinder-1(ID:1) 
+     Coord. X =       1.00000000                                                                                
+     Coord. Y =       2.00000000                                                                                
+     Coord. Z =       3.00000000                                                                                
+   Angle (XY) =            0.000                                                                                
+      X-Angle =           90.000                                                                                
+      Y-Angle =           90.000                                                                                
+      Z-Angle =            0.000                                                                                
+     Diameter =       8.00000000                                                                                
+       Radius =       4.00000000                                                                                
+     Cylindr. =                                       0.00000000                                                
+
+MRW_TESTING, LENGTH,ENDPOINTS,  2.0000,   (1.000, 2.000, 2.000),   (1.000, 2.000, 4.000)
+Cylinder: Cylinder-2(ID:2) 
+     Coord. X =       1.00000000                                                                                
+     Coord. Y =       2.00000000                                                                                
+     Coord. Z =       3.00000000                                                                                
+   Angle (XY) =           90.000                                                                                
+      X-Angle =           90.000                                                                                
+      Y-Angle =           60.000                                                                                
+      Z-Angle =           30.000                                                                                
+     Diameter =       8.00000000                                                                                
+       Radius =       4.00000000                                                                                
+     Cylindr. =                                       0.00000000                                                
+
+MRW_TESTING, LENGTH,ENDPOINTS,  2.0000,   (1.000, 1.500, 2.134),   (1.000, 2.500, 3.866)
+Cylinder: Cylinder-2-1(ID:3) 
+     Coord. X =       1.00000000                                                                                
+     Coord. Y =       2.00000000                                                                                
+     Coord. Z =       3.00000000                                                                                
+   Angle (XY) =          270.000                                                                                
+      X-Angle =           90.000                                                                                
+      Y-Angle =          120.000                                                                                
+      Z-Angle =           30.000                                                                                
+     Diameter =       8.00000000                                                                                
+       Radius =       4.00000000                                                                                
+     Cylindr. =                                       0.00000000                                                
+
+MRW_TESTING, LENGTH,ENDPOINTS,  2.0000,   (1.000, 2.500, 2.134),   (1.000, 1.500, 3.866)
+Cylinder: Cylinder-3(ID:4) 
+     Coord. X =       1.00000000                                                                                
+     Coord. Y =       2.00000000                                                                                
+     Coord. Z =       3.00000000                                                                                
+   Angle (XY) =          180.000                                                                                
+      X-Angle =          120.000                                                                                
+      Y-Angle =           90.000                                                                                
+      Z-Angle =           30.000                                                                                
+     Diameter =       8.00000000                                                                                
+       Radius =       4.00000000                                                                                
+     Cylindr. =                                       0.00000000                                                
+
+MRW_TESTING, LENGTH,ENDPOINTS,  2.0000,   (1.500, 2.000, 2.134),   (0.500, 2.000, 3.866)
+Cylinder: Cylinder-3-1(ID:5) 
+     Coord. X =       1.00000000                                                                                
+     Coord. Y =       2.00000000                                                                                
+     Coord. Z =       3.00000000                                                                                
+   Angle (XY) =            0.000                                                                                
+      X-Angle =           60.000                                                                                
+      Y-Angle =           90.000                                                                                
+      Z-Angle =           30.000                                                                                
+     Diameter =       8.00000000                                                                                
+       Radius =       4.00000000                                                                                
+     Cylindr. =                                       0.00000000                                                
+
+MRW_TESTING, LENGTH,ENDPOINTS,  2.0000,   (0.500, 2.000, 2.134),   (1.500, 2.000, 3.866)
+Cylinder: Cylinder-4(ID:6) 
+     Coord. X =       1.00000000                                                                                
+     Coord. Y =       2.00000000                                                                                
+     Coord. Z =       3.00000000                                                                                
+   Angle (XY) =           45.000                                                                                
+      X-Angle =           54.736                                                                                
+      Y-Angle =           54.736                                                                                
+      Z-Angle =           54.736                                                                                
+     Diameter =       8.00000000                                                                                
+       Radius =       4.00000000                                                                                
+     Cylindr. =                                       0.00000000                                                
+
+MRW_TESTING, LENGTH,ENDPOINTS,  2.0000,   (0.423, 1.423, 2.423),   (1.577, 2.577, 3.577)
+Cylinder: Cylinder-4-1(ID:7) 
+     Coord. X =       1.00000000                                                                                
+     Coord. Y =       2.00000000                                                                                
+     Coord. Z =       3.00000000                                                                                
+   Angle (XY) =          315.000                                                                                
+      X-Angle =           54.736                                                                                
+      Y-Angle =          125.264                                                                                
+      Z-Angle =           54.736                                                                                
+     Diameter =       8.00000000                                                                                
+       Radius =       4.00000000                                                                                
+     Cylindr. =                                       0.00000000                                                
+
+MRW_TESTING, LENGTH,ENDPOINTS,  2.0000,   (0.423, 2.577, 2.423),   (1.577, 1.423, 3.577)
+Cylinder: Cylinder-4-2(ID:8) 
+     Coord. X =       1.00000000                                                                                
+     Coord. Y =       2.00000000                                                                                
+     Coord. Z =       3.00000000                                                                                
+   Angle (XY) =          225.000                                                                                
+      X-Angle =          125.264                                                                                
+      Y-Angle =          125.264                                                                                
+      Z-Angle =          125.264                                                                                
+     Diameter =       8.00000000                                                                                
+       Radius =       4.00000000                                                                                
+     Cylindr. =                                       0.00000000                                                
+
+MRW_TESTING, LENGTH,ENDPOINTS,  2.0000,   (1.577, 2.577, 3.577),   (0.423, 1.423, 2.423)
+Cylinder: Cylinder-4-3(ID:9) 
+     Coord. X =       1.00000000                                                                                
+     Coord. Y =       2.00000000                                                                                
+     Coord. Z =       3.00000000                                                                                
+   Angle (XY) =          135.000                                                                                
+      X-Angle =          125.264                                                                                
+      Y-Angle =           54.736                                                                                
+      Z-Angle =          125.264                                                                                
+     Diameter =       8.00000000                                                                                
+       Radius =       4.00000000                                                                                
+     Cylindr. =                                       0.00000000                                                
+
+MRW_TESTING, LENGTH,ENDPOINTS,  2.0000,   (1.577, 1.423, 3.577),   (0.423, 2.577, 2.423)
+Plane: Plane-1(ID:10) 
+     Coord. X =       0.00000000                                                                                
+     Coord. Y =       0.00000000                                                                                
+     Coord. Z =       4.00000000                                                                                
+   Angle (XY) =            0.000                                                                                
+      X-Angle =           90.000                                                                                
+      Y-Angle =           90.000                                                                                
+      Z-Angle =            0.000                                                                                
+     Flatness =                                       0.00000000                                                
+
+Plane: Plane-2(ID:11) 
+     Coord. X =       0.00000000                                                                                
+     Coord. Y =       1.00000000                                                                                
+     Coord. Z =       3.73205081                                                                                
+   Angle (XY) =           90.000                                                                                
+      X-Angle =           90.000                                                                                
+      Y-Angle =           60.000                                                                                
+      Z-Angle =           30.000                                                                                
+     Flatness =                                       0.00000000                                                
+
+Plane: Plane-3(ID:12) 
+     Coord. X =      -1.00000000                                                                                
+     Coord. Y =       0.00000000                                                                                
+     Coord. Z =       3.73205081                                                                                
+   Angle (XY) =          180.000                                                                                
+      X-Angle =          120.000                                                                                
+      Y-Angle =           90.000                                                                                
+      Z-Angle =           30.000                                                                                
+     Flatness =                                       0.00000000                                                
+
+Plane: Plane-4(ID:13) 
+     Coord. X =       5.38541074                                                                                
+     Coord. Y =       2.55698362                                                                                
+     Coord. Z =       1.52170788                                                                                
+   Angle (XY) =           45.000                                                                                
+      X-Angle =           54.736                                                                                
+      Y-Angle =           54.736                                                                                
+      Z-Angle =           54.736                                                                                
+     Flatness =                                       0.00000000                                                
+
+Ellipse: IntersectEllipse-1(ID:14) 
+     Coord. X =       1.00000000                                                                                
+     Coord. Y =       2.00000000                                                                                
+     Coord. Z =       4.00000000                                                                                
+ Angle (XY) 2 =            0.000                                                                                
+    X-Angle 2 =            0.000                                                                                
+    Y-Angle 2 =           90.000                                                                                
+    Z-Angle 2 =           90.000                                                                                
+    Diameter1 =       8.00000000                                                                                
+    Diameter2 =       8.00000000                                                                                
+      TP (3D) =                                                                                 
+
+MRW_TESTING,
+Actual Normal 0.000000 0.000000 1.000000
+Actual Major  1.000000 0.000000 0.000000
+Nom Normal  0.000000 0.000000 1.000000
+Nom Major  1.000000 0.000000 0.000000
+Ellipse: IntersectEllipse-2(ID:15) 
+     Coord. X =       1.00000000                                                                                
+     Coord. Y =       2.57735027                                                                                
+     Coord. Z =       4.00000000                                                                                
+ Angle (XY) 2 =           90.000                                                                                
+    X-Angle 2 =           90.000                                                                                
+    Y-Angle 2 =            0.000                                                                                
+    Z-Angle 2 =           90.000                                                                                
+    Diameter1 =       9.23760431                                                                                
+    Diameter2 =       8.00000000                                                                                
+      TP (3D) =                                                                                 
+
+MRW_TESTING,
+Actual Normal 0.000000 0.000000 1.000000
+Actual Major  0.000000 1.000000 -0.000000
+Nom Normal  0.000000 0.000000 1.000000
+Nom Major  1.000000 0.000000 0.000000
+Ellipse: IntersectEllipse-3(ID:16) 
+     Coord. X =       1.00000000                                                                                
+     Coord. Y =       1.42264973                                                                                
+     Coord. Z =       4.00000000                                                                                
+ Angle (XY) 2 =          270.000                                                                                
+    X-Angle 2 =           90.000                                                                                
+    Y-Angle 2 =          180.000                                                                                
+    Z-Angle 2 =           90.000                                                                                
+    Diameter1 =       9.23760431                                                                                
+    Diameter2 =       8.00000000                                                                                
+      TP (3D) =                                                                                 
+
+MRW_TESTING,
+Actual Normal 0.000000 0.000000 1.000000
+Actual Major  0.000000 -1.000000 0.000000
+Nom Normal  0.000000 0.000000 1.000000
+Nom Major  1.000000 0.000000 0.000000
+Ellipse: IntersectEllipse-4(ID:17) 
+     Coord. X =       0.42264973                                                                                
+     Coord. Y =       2.00000000                                                                                
+     Coord. Z =       4.00000000                                                                                
+ Angle (XY) 2 =          180.000                                                                                
+    X-Angle 2 =          180.000                                                                                
+    Y-Angle 2 =           90.000                                                                                
+    Z-Angle 2 =           90.000                                                                                
+    Diameter1 =       9.23760431                                                                                
+    Diameter2 =       8.00000000                                                                                
+      TP (3D) =                                                                                 
+
+MRW_TESTING,
+Actual Normal 0.000000 0.000000 1.000000
+Actual Major  -1.000000 0.000000 0.000000
+Nom Normal  0.000000 0.000000 1.000000
+Nom Major  1.000000 0.000000 0.000000
+Ellipse: IntersectEllipse-5(ID:18) 
+     Coord. X =       1.57735027                                                                                
+     Coord. Y =       2.00000000                                                                                
+     Coord. Z =       4.00000000                                                                                
+ Angle (XY) 2 =            0.000                                                                                
+    X-Angle 2 =            0.000                                                                                
+    Y-Angle 2 =           90.000                                                                                
+    Z-Angle 2 =           90.000                                                                                
+    Diameter1 =       9.23760431                                                                                
+    Diameter2 =       8.00000000                                                                                
+      TP (3D) =                                                                                 
+
+MRW_TESTING,
+Actual Normal 0.000000 0.000000 1.000000
+Actual Major  1.000000 -0.000000 0.000000
+Nom Normal  0.000000 0.000000 1.000000
+Nom Major  1.000000 0.000000 0.000000
+Ellipse: IntersectEllipse-12(ID:19) 
+     Coord. X =       1.99999962      1.99999962      0.00000000      0.00100000     -0.00100000            PASS
+     Coord. Y =       2.99999962      2.99999962      0.00000000      0.00100000     -0.00100000            PASS
+     Coord. Z =       4.00000000      4.00000000      0.00000000      0.00100000     -0.00100000            PASS
+ Angle (XY) 2 =           45.000          45.000           0.000           1.000          -1.000            PASS
+    X-Angle 2 =           45.000          45.000           0.000           1.000          -1.000            PASS
+    Y-Angle 2 =           45.000          45.000           0.000           1.000          -1.000            PASS
+    Z-Angle 2 =           90.000          90.000           0.000           1.000          -1.000            PASS
+    Diameter1 =      13.85640293     13.85640293      0.00000000      0.00100000     -0.00100000            PASS
+    Diameter2 =       8.00000000      8.00000000      0.00000000      0.00100000     -0.00100000            PASS
+      TP (3D) =                                       0.00000001                                                
+
+MRW_TESTING,
+Actual Normal 0.000000 0.000000 1.000000
+Actual Major  0.707107 0.707107 -0.000000
+Nom Normal  0.000000 0.000000 1.000000
+Nom Major  0.707107 0.707107 0.000000
+Ellipse: IntersectEllipse-13(ID:20) 
+     Coord. X =       1.99999962                                                                                
+     Coord. Y =       1.00000038                                                                                
+     Coord. Z =       4.00000000                                                                                
+ Angle (XY) 2 =          315.000                                                                                
+    X-Angle 2 =           45.000                                                                                
+    Y-Angle 2 =          135.000                                                                                
+    Z-Angle 2 =           90.000                                                                                
+    Diameter1 =      13.85640293                                                                                
+    Diameter2 =       8.00000000                                                                                
+      TP (3D) =                                                                                 
+
+MRW_TESTING,
+Actual Normal 0.000000 0.000000 1.000000
+Actual Major  0.707107 -0.707107 0.000000
+Nom Normal  0.000000 0.000000 1.000000
+Nom Major  1.000000 0.000000 0.000000
+Ellipse: IntersectEllipse-14(ID:21) 
+     Coord. X =       1.99999962                                                                                
+     Coord. Y =       2.99999962                                                                                
+     Coord. Z =       4.00000000                                                                                
+ Angle (XY) 2 =          225.000                                                                                
+    X-Angle 2 =          135.000                                                                                
+    Y-Angle 2 =          135.000                                                                                
+    Z-Angle 2 =           90.000                                                                                
+    Diameter1 =     -13.85640293                                                                                
+    Diameter2 =       8.00000000                                                                                
+      TP (3D) =                                                                                 
+
+MRW_TESTING,
+Actual Normal 0.000000 0.000000 1.000000
+Actual Major  -0.707107 -0.707107 0.000000
+Nom Normal  0.000000 0.000000 1.000000
+Nom Major  1.000000 0.000000 0.000000
+Ellipse: IntersectEllipse-15(ID:22) 
+     Coord. X =       1.99999962                                                                                
+     Coord. Y =       1.00000038                                                                                
+     Coord. Z =       4.00000000                                                                                
+ Angle (XY) 2 =          135.000                                                                                
+    X-Angle 2 =          135.000                                                                                
+    Y-Angle 2 =           45.000                                                                                
+    Z-Angle 2 =           90.000                                                                                
+    Diameter1 =     -13.85640293                                                                                
+    Diameter2 =       8.00000000                                                                                
+      TP (3D) =                                                                                 
+
+MRW_TESTING,
+Actual Normal 0.000000 0.000000 1.000000
+Actual Major  -0.707107 0.707107 0.000000
+Nom Normal  0.000000 0.000000 1.000000
+Nom Major  1.000000 0.000000 0.000000
